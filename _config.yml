@@ -1,11 +1,11 @@
 # Site settings
 author: Bonny Nichol
-title: 
+title: Data Paris
 header-img: img/home-bg.png
 email: bonny.nichol@gmail.com
 copyright_name: Bonny Nichol
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Becoming a Data Scientist in Paris
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  bonnynich
